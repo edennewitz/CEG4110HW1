@@ -1,12 +1,12 @@
 # CEG-4110 HW1 (Simple Coloring App)
-The point of this app was to create to allow users to enter text and then change the color of the text. 
+The point of this app was to create to allow users to enter text and then change the color of the text. The color of the text is changed by randomly generating a rbg color value each time the button is pressed and then setting the text color to generated value.
 
 ## Deployment instructions
 This app is intended for and programmed for android devices. In order to deploy the app download the apk file,then move the apk file from the computer to the desired android device. After the file is on the device install the file and launch the app.
 
 
 ## Simple instruction
-Below are three screenshots of what you can expect to see when the app is launched, as well it's functionality. The first screenshot show the default screen that will show when the app is launched. The second show that the user is able to change the the text in the top text box. Finally the last screenshots show that when the button is pressed, the text color will change to a random color. That current color of the text is displayed below the text with the corresponding rgb values and html color code.
+Below are three screenshots of what you can expect to see when the app is launched, as well it's functionality. The first screenshot show the default screen that will show when the app is launched. The second show that the user is able to change the the text in the top text box. Finally the last screenshots show that when the button is pressed, the text color will change to a random color. That current color of the text is displayed below the text with the corresponding rgb values and html color code. 
 
 #### Default Start Screen 
 
